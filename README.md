@@ -18,6 +18,7 @@ What we do:
 - create our server side Service and resolve needed methods
 - create tests client using generated files
 
+## Contacts
 
-
-
+Oleksandr Zaporozhchenko
+[[github]](https://github.com/Maxatma)  [[gmail]](mailto:maxatma.ids@gmail.com)  [[fb]](https://www.facebook.com/profile.php?id=100008291260780)  [[in]](https://www.linkedin.com/in/maxatma/)
